@@ -1,0 +1,11 @@
+C:\Users\islem\source\repos\LaverieEntities\LaverieEntities\bin\Debug\net8.0\LaverieEntities.deps.json
+C:\Users\islem\source\repos\LaverieEntities\LaverieEntities\bin\Debug\net8.0\LaverieEntities.dll
+C:\Users\islem\source\repos\LaverieEntities\LaverieEntities\bin\Debug\net8.0\LaverieEntities.pdb
+C:\Users\islem\source\repos\LaverieEntities\LaverieEntities\obj\Debug\net8.0\LaverieEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\islem\source\repos\LaverieEntities\LaverieEntities\obj\Debug\net8.0\LaverieEntities.AssemblyInfoInputs.cache
+C:\Users\islem\source\repos\LaverieEntities\LaverieEntities\obj\Debug\net8.0\LaverieEntities.AssemblyInfo.cs
+C:\Users\islem\source\repos\LaverieEntities\LaverieEntities\obj\Debug\net8.0\LaverieEntities.csproj.CoreCompileInputs.cache
+C:\Users\islem\source\repos\LaverieEntities\LaverieEntities\obj\Debug\net8.0\LaverieEntities.dll
+C:\Users\islem\source\repos\LaverieEntities\LaverieEntities\obj\Debug\net8.0\refint\LaverieEntities.dll
+C:\Users\islem\source\repos\LaverieEntities\LaverieEntities\obj\Debug\net8.0\LaverieEntities.pdb
+C:\Users\islem\source\repos\LaverieEntities\LaverieEntities\obj\Debug\net8.0\ref\LaverieEntities.dll
