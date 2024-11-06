@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\islem\\source\\repos\\Laverie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20E7AF1F-124F-4038-B91F-8F2C6878080E}|Laverie\\Laverie.csproj|c:\\users\\islem\\source\\repos\\laverie\\laverie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E7AF1F-124F-4038-B91F-8F2C6878080E}|Laverie\\Laverie.csproj|solutionrelative:laverie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E7AF1F-124F-4038-B91F-8F2C6878080E}|Laverie\\Laverie.csproj|c:\\users\\islem\\source\\repos\\laverie\\laverie\\infrastructure\\daoimp\\daoimpcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E7AF1F-124F-4038-B91F-8F2C6878080E}|Laverie\\Laverie.csproj|solutionrelative:laverie\\infrastructure\\daoimp\\daoimpcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E7AF1F-124F-4038-B91F-8F2C6878080E}|Laverie\\Laverie.csproj|c:\\users\\islem\\source\\repos\\laverie\\laverie\\infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E7AF1F-124F-4038-B91F-8F2C6878080E}|Laverie\\Laverie.csproj|solutionrelative:laverie\\infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E7AF1F-124F-4038-B91F-8F2C6878080E}|Laverie\\Laverie.csproj|c:\\users\\islem\\source\\repos\\laverie\\laverie\\infrastructure\\daoimp\\daoimpproprietaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E7AF1F-124F-4038-B91F-8F2C6878080E}|Laverie\\Laverie.csproj|solutionrelative:laverie\\infrastructure\\daoimp\\daoimpproprietaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E7AF1F-124F-4038-B91F-8F2C6878080E}|Laverie\\Laverie.csproj|c:\\users\\islem\\source\\repos\\laverie\\laverie\\infrastructure\\daoimp\\daoimpmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E7AF1F-124F-4038-B91F-8F2C6878080E}|Laverie\\Laverie.csproj|solutionrelative:laverie\\infrastructure\\daoimp\\daoimpmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E7AF1F-124F-4038-B91F-8F2C6878080E}|Laverie\\Laverie.csproj|c:\\users\\islem\\source\\repos\\laverie\\laverie\\infrastructure\\daoimp\\daoimplaverie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E7AF1F-124F-4038-B91F-8F2C6878080E}|Laverie\\Laverie.csproj|solutionrelative:laverie\\infrastructure\\daoimp\\daoimplaverie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E7AF1F-124F-4038-B91F-8F2C6878080E}|Laverie\\Laverie.csproj|c:\\users\\islem\\source\\repos\\laverie\\laverie\\dto\\dtoaffectlp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E7AF1F-124F-4038-B91F-8F2C6878080E}|Laverie\\Laverie.csproj|solutionrelative:laverie\\dto\\dtoaffectlp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E7AF1F-124F-4038-B91F-8F2C6878080E}|Laverie\\Laverie.csproj|c:\\users\\islem\\source\\repos\\laverie\\laverie\\controllers\\controllercycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E7AF1F-124F-4038-B91F-8F2C6878080E}|Laverie\\Laverie.csproj|solutionrelative:laverie\\controllers\\controllercycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E7AF1F-124F-4038-B91F-8F2C6878080E}|Laverie\\Laverie.csproj|c:\\users\\islem\\source\\repos\\laverie\\laverie\\controllers\\controllerlaverie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E7AF1F-124F-4038-B91F-8F2C6878080E}|Laverie\\Laverie.csproj|solutionrelative:laverie\\controllers\\controllerlaverie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E7AF1F-124F-4038-B91F-8F2C6878080E}|Laverie\\Laverie.csproj|c:\\users\\islem\\source\\repos\\laverie\\laverie\\controllers\\controllermachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E7AF1F-124F-4038-B91F-8F2C6878080E}|Laverie\\Laverie.csproj|solutionrelative:laverie\\controllers\\controllermachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E7AF1F-124F-4038-B91F-8F2C6878080E}|Laverie\\Laverie.csproj|c:\\users\\islem\\source\\repos\\laverie\\laverie\\controllers\\controllerprop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E7AF1F-124F-4038-B91F-8F2C6878080E}|Laverie\\Laverie.csproj|solutionrelative:laverie\\controllers\\controllerprop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E7AF1F-124F-4038-B91F-8F2C6878080E}|Laverie\\Laverie.csproj|c:\\users\\islem\\source\\repos\\laverie\\laverie\\dto\\dtoproprietaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E7AF1F-124F-4038-B91F-8F2C6878080E}|Laverie\\Laverie.csproj|solutionrelative:laverie\\dto\\dtoproprietaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E7AF1F-124F-4038-B91F-8F2C6878080E}|Laverie\\Laverie.csproj|c:\\users\\islem\\source\\repos\\laverie\\laverie\\dto\\dtomachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E7AF1F-124F-4038-B91F-8F2C6878080E}|Laverie\\Laverie.csproj|solutionrelative:laverie\\dto\\dtomachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E7AF1F-124F-4038-B91F-8F2C6878080E}|Laverie\\Laverie.csproj|c:\\users\\islem\\source\\repos\\laverie\\laverie\\dto\\dtocycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E7AF1F-124F-4038-B91F-8F2C6878080E}|Laverie\\Laverie.csproj|solutionrelative:laverie\\dto\\dtocycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E7AF1F-124F-4038-B91F-8F2C6878080E}|Laverie\\Laverie.csproj|c:\\users\\islem\\source\\repos\\laverie\\laverie\\dto\\dtoaffectml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E7AF1F-124F-4038-B91F-8F2C6878080E}|Laverie\\Laverie.csproj|solutionrelative:laverie\\dto\\dtoaffectml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 275,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DTOAffectLP.cs",
+              "DocumentMoniker": "C:\\Users\\islem\\source\\repos\\Laverie\\Laverie\\DTO\\DTOAffectLP.cs",
+              "RelativeDocumentMoniker": "Laverie\\DTO\\DTOAffectLP.cs",
+              "ToolTip": "C:\\Users\\islem\\source\\repos\\Laverie\\Laverie\\DTO\\DTOAffectLP.cs",
+              "RelativeToolTip": "Laverie\\DTO\\DTOAffectLP.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:24:05.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ControllerCycle.cs",
+              "DocumentMoniker": "C:\\Users\\islem\\source\\repos\\Laverie\\Laverie\\Controllers\\ControllerCycle.cs",
+              "RelativeDocumentMoniker": "Laverie\\Controllers\\ControllerCycle.cs",
+              "ToolTip": "C:\\Users\\islem\\source\\repos\\Laverie\\Laverie\\Controllers\\ControllerCycle.cs",
+              "RelativeToolTip": "Laverie\\Controllers\\ControllerCycle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:22:47.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DAOImpCycle.cs",
+              "DocumentMoniker": "C:\\Users\\islem\\source\\repos\\Laverie\\Laverie\\Infrastructure\\DAOImp\\DAOImpCycle.cs",
+              "RelativeDocumentMoniker": "Laverie\\Infrastructure\\DAOImp\\DAOImpCycle.cs",
+              "ToolTip": "C:\\Users\\islem\\source\\repos\\Laverie\\Laverie\\Infrastructure\\DAOImp\\DAOImpCycle.cs",
+              "RelativeToolTip": "Laverie\\Infrastructure\\DAOImp\\DAOImpCycle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:21:03.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DAOImpLaverie.cs",
+              "DocumentMoniker": "C:\\Users\\islem\\source\\repos\\Laverie\\Laverie\\Infrastructure\\DAOImp\\DAOImpLaverie.cs",
+              "RelativeDocumentMoniker": "Laverie\\Infrastructure\\DAOImp\\DAOImpLaverie.cs",
+              "ToolTip": "C:\\Users\\islem\\source\\repos\\Laverie\\Laverie\\Infrastructure\\DAOImp\\DAOImpLaverie.cs",
+              "RelativeToolTip": "Laverie\\Infrastructure\\DAOImp\\DAOImpLaverie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:23:30.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DAOImpMachine.cs",
+              "DocumentMoniker": "C:\\Users\\islem\\source\\repos\\Laverie\\Laverie\\Infrastructure\\DAOImp\\DAOImpMachine.cs",
+              "RelativeDocumentMoniker": "Laverie\\Infrastructure\\DAOImp\\DAOImpMachine.cs",
+              "ToolTip": "C:\\Users\\islem\\source\\repos\\Laverie\\Laverie\\Infrastructure\\DAOImp\\DAOImpMachine.cs",
+              "RelativeToolTip": "Laverie\\Infrastructure\\DAOImp\\DAOImpMachine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:23:37.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DAOImpProprietaire.cs",
+              "DocumentMoniker": "C:\\Users\\islem\\source\\repos\\Laverie\\Laverie\\Infrastructure\\DAOImp\\DAOImpProprietaire.cs",
+              "RelativeDocumentMoniker": "Laverie\\Infrastructure\\DAOImp\\DAOImpProprietaire.cs",
+              "ToolTip": "C:\\Users\\islem\\source\\repos\\Laverie\\Laverie\\Infrastructure\\DAOImp\\DAOImpProprietaire.cs",
+              "RelativeToolTip": "Laverie\\Infrastructure\\DAOImp\\DAOImpProprietaire.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:23:42.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\islem\\source\\repos\\Laverie\\Laverie\\Infrastructure\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "Laverie\\Infrastructure\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\islem\\source\\repos\\Laverie\\Laverie\\Infrastructure\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "Laverie\\Infrastructure\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAmwAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:21:34.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\islem\\source\\repos\\Laverie\\Laverie\\Program.cs",
+              "RelativeDocumentMoniker": "Laverie\\Program.cs",
+              "ToolTip": "C:\\Users\\islem\\source\\repos\\Laverie\\Laverie\\Program.cs",
+              "RelativeToolTip": "Laverie\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T12:48:22.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ControllerLaverie.cs",
+              "DocumentMoniker": "C:\\Users\\islem\\source\\repos\\Laverie\\Laverie\\Controllers\\ControllerLaverie.cs",
+              "RelativeDocumentMoniker": "Laverie\\Controllers\\ControllerLaverie.cs",
+              "ToolTip": "C:\\Users\\islem\\source\\repos\\Laverie\\Laverie\\Controllers\\ControllerLaverie.cs",
+              "RelativeToolTip": "Laverie\\Controllers\\ControllerLaverie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:24:20.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ControllerMachine.cs",
+              "DocumentMoniker": "C:\\Users\\islem\\source\\repos\\Laverie\\Laverie\\Controllers\\ControllerMachine.cs",
+              "RelativeDocumentMoniker": "Laverie\\Controllers\\ControllerMachine.cs",
+              "ToolTip": "C:\\Users\\islem\\source\\repos\\Laverie\\Laverie\\Controllers\\ControllerMachine.cs",
+              "RelativeToolTip": "Laverie\\Controllers\\ControllerMachine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:24:21.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ControllerProp.cs",
+              "DocumentMoniker": "C:\\Users\\islem\\source\\repos\\Laverie\\Laverie\\Controllers\\ControllerProp.cs",
+              "RelativeDocumentMoniker": "Laverie\\Controllers\\ControllerProp.cs",
+              "ToolTip": "C:\\Users\\islem\\source\\repos\\Laverie\\Laverie\\Controllers\\ControllerProp.cs",
+              "RelativeToolTip": "Laverie\\Controllers\\ControllerProp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:24:23.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DTOProprietaire.cs",
+              "DocumentMoniker": "C:\\Users\\islem\\source\\repos\\Laverie\\Laverie\\DTO\\DTOProprietaire.cs",
+              "RelativeDocumentMoniker": "Laverie\\DTO\\DTOProprietaire.cs",
+              "ToolTip": "C:\\Users\\islem\\source\\repos\\Laverie\\Laverie\\DTO\\DTOProprietaire.cs",
+              "RelativeToolTip": "Laverie\\DTO\\DTOProprietaire.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:24:13.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DTOMachine.cs",
+              "DocumentMoniker": "C:\\Users\\islem\\source\\repos\\Laverie\\Laverie\\DTO\\DTOMachine.cs",
+              "RelativeDocumentMoniker": "Laverie\\DTO\\DTOMachine.cs",
+              "ToolTip": "C:\\Users\\islem\\source\\repos\\Laverie\\Laverie\\DTO\\DTOMachine.cs",
+              "RelativeToolTip": "Laverie\\DTO\\DTOMachine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:24:13.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DTOAffectML.cs",
+              "DocumentMoniker": "C:\\Users\\islem\\source\\repos\\Laverie\\Laverie\\DTO\\DTOAffectML.cs",
+              "RelativeDocumentMoniker": "Laverie\\DTO\\DTOAffectML.cs",
+              "ToolTip": "C:\\Users\\islem\\source\\repos\\Laverie\\Laverie\\DTO\\DTOAffectML.cs",
+              "RelativeToolTip": "Laverie\\DTO\\DTOAffectML.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:24:11.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DTOCycle.cs",
+              "DocumentMoniker": "C:\\Users\\islem\\source\\repos\\Laverie\\Laverie\\DTO\\DTOCycle.cs",
+              "RelativeDocumentMoniker": "Laverie\\DTO\\DTOCycle.cs",
+              "ToolTip": "C:\\Users\\islem\\source\\repos\\Laverie\\Laverie\\DTO\\DTOCycle.cs",
+              "RelativeToolTip": "Laverie\\DTO\\DTOCycle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:23:01.223Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
