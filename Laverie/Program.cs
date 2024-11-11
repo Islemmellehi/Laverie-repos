@@ -27,6 +27,7 @@ namespace Laverie
             builder.Services.AddScoped<IDAOLaverie, DAOImpLaverie>();
             builder.Services.AddScoped<IDAOMachine, DAOImpMachine>();
             builder.Services.AddScoped<IDAOCycle, DAOImpCycle>();
+            builder.Services.AddScoped<IDAOSerialize, DAOImpSerialize>();
 
 
 
