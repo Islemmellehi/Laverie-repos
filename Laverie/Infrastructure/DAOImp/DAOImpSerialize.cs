@@ -2,6 +2,7 @@
 using LaverieEntities.Entities;
 using Laverie.Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
+using System.Text.Json;
 
 namespace Laverie.Infrastructure.DAOImp
 {
@@ -33,13 +34,21 @@ namespace Laverie.Infrastructure.DAOImp
 
             var cycles = _context.Cycles.ToList();
 
-            return new LaverieData
+            var laverieData = new LaverieData
             {
                 Proprietaires = proprietaires,
                 Laveries = laveries,
                 Machines = machines,
                 Cycles = cycles
             };
+            string json = JsonSerializer.Serialize(laverieData, new JsonSerializerOptions { WriteIndented = true });
+
+            string filePath = Path.Combine(Directory.GetCurrentDirectory(), "LaverieData.json");
+
+            File.WriteAllText(filePath, json);
+
+            return laverieData;
+
         }
     }
 }
