@@ -6,4 +6,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="Laverie">
+      <HintPath>..\..\Laverie\Laverie\bin\Debug\net8.0\Laverie.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

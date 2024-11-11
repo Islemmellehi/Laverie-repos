@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LaverieEntities")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4cd8baeac19ae479218ec750f260079218e59020")]
 [assembly: System.Reflection.AssemblyProductAttribute("LaverieEntities")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LaverieEntities")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

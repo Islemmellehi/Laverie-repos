@@ -3,6 +3,33 @@
   "WorkspaceRootPath": "C:\\Users\\islem\\source\\repos\\LaverieEntities\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3CB7D9-7D5E-4A08-952F-6EC1B917928D}|LaverieEntities\\LaverieEntities.csproj|c:\\users\\islem\\source\\repos\\laverieentities\\laverieentities\\idao\\idaoserialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3CB7D9-7D5E-4A08-952F-6EC1B917928D}|LaverieEntities\\LaverieEntities.csproj|solutionrelative:laverieentities\\idao\\idaoserialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3CB7D9-7D5E-4A08-952F-6EC1B917928D}|LaverieEntities\\LaverieEntities.csproj|c:\\users\\islem\\source\\repos\\laverieentities\\laverieentities\\idao\\idaocycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3CB7D9-7D5E-4A08-952F-6EC1B917928D}|LaverieEntities\\LaverieEntities.csproj|solutionrelative:laverieentities\\idao\\idaocycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3CB7D9-7D5E-4A08-952F-6EC1B917928D}|LaverieEntities\\LaverieEntities.csproj|c:\\users\\islem\\source\\repos\\laverieentities\\laverieentities\\entities\\proprietaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3CB7D9-7D5E-4A08-952F-6EC1B917928D}|LaverieEntities\\LaverieEntities.csproj|solutionrelative:laverieentities\\entities\\proprietaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3CB7D9-7D5E-4A08-952F-6EC1B917928D}|LaverieEntities\\LaverieEntities.csproj|c:\\users\\islem\\source\\repos\\laverieentities\\laverieentities\\entities\\machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3CB7D9-7D5E-4A08-952F-6EC1B917928D}|LaverieEntities\\LaverieEntities.csproj|solutionrelative:laverieentities\\entities\\machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3CB7D9-7D5E-4A08-952F-6EC1B917928D}|LaverieEntities\\LaverieEntities.csproj|c:\\users\\islem\\source\\repos\\laverieentities\\laverieentities\\entities\\laveries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3CB7D9-7D5E-4A08-952F-6EC1B917928D}|LaverieEntities\\LaverieEntities.csproj|solutionrelative:laverieentities\\entities\\laveries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3CB7D9-7D5E-4A08-952F-6EC1B917928D}|LaverieEntities\\LaverieEntities.csproj|c:\\users\\islem\\source\\repos\\laverieentities\\laverieentities\\entities\\cycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3CB7D9-7D5E-4A08-952F-6EC1B917928D}|LaverieEntities\\LaverieEntities.csproj|solutionrelative:laverieentities\\entities\\cycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1D3CB7D9-7D5E-4A08-952F-6EC1B917928D}|LaverieEntities\\LaverieEntities.csproj|c:\\users\\islem\\source\\repos\\laverieentities\\laverieentities\\idao\\idaomachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D3CB7D9-7D5E-4A08-952F-6EC1B917928D}|LaverieEntities\\LaverieEntities.csproj|solutionrelative:laverieentities\\idao\\idaomachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,28 +38,8 @@
       "RelativeMoniker": "D:0:0:{1D3CB7D9-7D5E-4A08-952F-6EC1B917928D}|LaverieEntities\\LaverieEntities.csproj|solutionrelative:laverieentities\\idao\\idaolaverie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D3CB7D9-7D5E-4A08-952F-6EC1B917928D}|LaverieEntities\\LaverieEntities.csproj|c:\\users\\islem\\source\\repos\\laverieentities\\laverieentities\\idao\\idaocycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D3CB7D9-7D5E-4A08-952F-6EC1B917928D}|LaverieEntities\\LaverieEntities.csproj|solutionrelative:laverieentities\\idao\\idaocycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1D3CB7D9-7D5E-4A08-952F-6EC1B917928D}|LaverieEntities\\LaverieEntities.csproj|c:\\users\\islem\\source\\repos\\laverieentities\\laverieentities\\idao\\idaoproprietaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D3CB7D9-7D5E-4A08-952F-6EC1B917928D}|LaverieEntities\\LaverieEntities.csproj|solutionrelative:laverieentities\\idao\\idaoproprietaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D3CB7D9-7D5E-4A08-952F-6EC1B917928D}|LaverieEntities\\LaverieEntities.csproj|c:\\users\\islem\\source\\repos\\laverieentities\\laverieentities\\entities\\proprietaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D3CB7D9-7D5E-4A08-952F-6EC1B917928D}|LaverieEntities\\LaverieEntities.csproj|solutionrelative:laverieentities\\entities\\proprietaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D3CB7D9-7D5E-4A08-952F-6EC1B917928D}|LaverieEntities\\LaverieEntities.csproj|c:\\users\\islem\\source\\repos\\laverieentities\\laverieentities\\entities\\laveries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D3CB7D9-7D5E-4A08-952F-6EC1B917928D}|LaverieEntities\\LaverieEntities.csproj|solutionrelative:laverieentities\\entities\\laveries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D3CB7D9-7D5E-4A08-952F-6EC1B917928D}|LaverieEntities\\LaverieEntities.csproj|c:\\users\\islem\\source\\repos\\laverieentities\\laverieentities\\entities\\machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D3CB7D9-7D5E-4A08-952F-6EC1B917928D}|LaverieEntities\\LaverieEntities.csproj|solutionrelative:laverieentities\\entities\\machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D3CB7D9-7D5E-4A08-952F-6EC1B917928D}|LaverieEntities\\LaverieEntities.csproj|c:\\users\\islem\\source\\repos\\laverieentities\\laverieentities\\entities\\cycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D3CB7D9-7D5E-4A08-952F-6EC1B917928D}|LaverieEntities\\LaverieEntities.csproj|solutionrelative:laverieentities\\entities\\cycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,8 +49,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Microsoft.NET.Sdk.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets",
+              "ViewState": "AQIAAAoBAAAAAAAAAAApwBsBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-11-11T20:09:49.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDAOSerialize.cs",
+              "DocumentMoniker": "C:\\Users\\islem\\source\\repos\\LaverieEntities\\LaverieEntities\\IDAO\\IDAOSerialize.cs",
+              "RelativeDocumentMoniker": "LaverieEntities\\IDAO\\IDAOSerialize.cs",
+              "ToolTip": "C:\\Users\\islem\\source\\repos\\LaverieEntities\\LaverieEntities\\IDAO\\IDAOSerialize.cs",
+              "RelativeToolTip": "LaverieEntities\\IDAO\\IDAOSerialize.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:57:48.162Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -59,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "IDAOMachine.cs",
               "DocumentMoniker": "C:\\Users\\islem\\source\\repos\\LaverieEntities\\LaverieEntities\\IDAO\\IDAOMachine.cs",
               "RelativeDocumentMoniker": "LaverieEntities\\IDAO\\IDAOMachine.cs",
@@ -72,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "IDAOLaverie.cs",
               "DocumentMoniker": "C:\\Users\\islem\\source\\repos\\LaverieEntities\\LaverieEntities\\IDAO\\IDAOLaverie.cs",
               "RelativeDocumentMoniker": "LaverieEntities\\IDAO\\IDAOLaverie.cs",
@@ -80,12 +113,11 @@
               "RelativeToolTip": "LaverieEntities\\IDAO\\IDAOLaverie.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T10:19:04.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T10:19:04.59Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "IDAOProprietaire.cs",
               "DocumentMoniker": "C:\\Users\\islem\\source\\repos\\LaverieEntities\\LaverieEntities\\IDAO\\IDAOProprietaire.cs",
               "RelativeDocumentMoniker": "LaverieEntities\\IDAO\\IDAOProprietaire.cs",
@@ -93,31 +125,30 @@
               "RelativeToolTip": "LaverieEntities\\IDAO\\IDAOProprietaire.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T10:18:18.75Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T10:18:18.75Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Machine.cs",
               "DocumentMoniker": "C:\\Users\\islem\\source\\repos\\LaverieEntities\\LaverieEntities\\Entities\\Machine.cs",
               "RelativeDocumentMoniker": "LaverieEntities\\Entities\\Machine.cs",
               "ToolTip": "C:\\Users\\islem\\source\\repos\\LaverieEntities\\LaverieEntities\\Entities\\Machine.cs",
               "RelativeToolTip": "LaverieEntities\\Entities\\Machine.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T10:11:39.613Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Cycle.cs",
               "DocumentMoniker": "C:\\Users\\islem\\source\\repos\\LaverieEntities\\LaverieEntities\\Entities\\Cycle.cs",
               "RelativeDocumentMoniker": "LaverieEntities\\Entities\\Cycle.cs",
               "ToolTip": "C:\\Users\\islem\\source\\repos\\LaverieEntities\\LaverieEntities\\Entities\\Cycle.cs",
               "RelativeToolTip": "LaverieEntities\\Entities\\Cycle.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T10:11:32.904Z",
               "EditorCaption": ""
@@ -130,20 +161,20 @@
               "RelativeDocumentMoniker": "LaverieEntities\\Entities\\Laveries.cs",
               "ToolTip": "C:\\Users\\islem\\source\\repos\\LaverieEntities\\LaverieEntities\\Entities\\Laveries.cs",
               "RelativeToolTip": "LaverieEntities\\Entities\\Laveries.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T10:11:26.849Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Proprietaire.cs",
               "DocumentMoniker": "C:\\Users\\islem\\source\\repos\\LaverieEntities\\LaverieEntities\\Entities\\Proprietaire.cs",
               "RelativeDocumentMoniker": "LaverieEntities\\Entities\\Proprietaire.cs",
               "ToolTip": "C:\\Users\\islem\\source\\repos\\LaverieEntities\\LaverieEntities\\Entities\\Proprietaire.cs",
               "RelativeToolTip": "LaverieEntities\\Entities\\Proprietaire.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA0AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T10:11:20.504Z",
               "EditorCaption": ""
